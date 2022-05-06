@@ -40,7 +40,7 @@ spec:
     spec:
       containers:
         - name: emoji-ui
-          image: satangops/react-emoji-demo:1
+          image: satangops/react-emoji-demo:2
           ports:
             - name: nginx-port
               containerPort: 80
